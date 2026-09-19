@@ -23,3 +23,10 @@ An AI-based image matching system that helps users find lost items by matching i
 2. Run main.py.
 3. Upload lost and found item images.
 4. Check matching results.
+
+## Project Status
+
+Currently under development.
+
+We are continuously improving the project
+by adding new features and fixing bugs.
