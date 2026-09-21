@@ -30,3 +30,7 @@ Currently under development.
 
 We are continuously improving the project
 by adding new features and fixing bugs.
+
+## Latest Update
+
+Improved project documentation.
