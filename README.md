@@ -33,4 +33,5 @@ by adding new features and fixing bugs.
 
 ## Latest Update
 
-Improved project documentation.
+Update project documentation and stracture
+Today's update: Improved project documentation.
